@@ -1,5 +1,5 @@
 {
-  "name": "@prasarCodes/ember-cli-dropzonejs",
+  "name": "@pscode/ember-cli-dropzonejs",
   "version": "4.0.2",
   "description": "Drag and drop file uploader addon using dropzonejs",
   "keywords": [
