@@ -39,7 +39,7 @@ export default class DropZoneComponent extends Component {
     const events = _possibleEvents.reduce((_events, e) => {
       const eventArg = eventArgify(e);
       if (
-        Object.prototype.hasOwnProperty.call(this.args, eventArg) &&
+        eventArg in this.args &&
         typeof this.args[eventArg] === 'function'
       ) {
         _events[e] = this.args[eventArg];
