@@ -1,6 +1,6 @@
 {
-  "name": "@voll/ember-cli-dropzonejs",
-  "version": "4.0.1",
+  "name": "@prasarCodes/ember-cli-dropzonejs",
+  "version": "4.0.2",
   "description": "Drag and drop file uploader addon using dropzonejs",
   "keywords": [
     "ember-addon",
@@ -15,10 +15,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/volldigital/ember-cli-dropzonejs.git"
+    "url": "git+https://github.com/prasarCodes/ember-cli-dropzonejs.git"
   },
   "license": "MIT",
-  "author": "VOLL digital <technik@voll.digital>",
+  "author": "Pratyay Sarkar",
   "directories": {
     "test": "tests"
   },
@@ -89,8 +89,7 @@
     "edition": "octane"
   },
   "bugs": {
-    "url": "https://github.com/volldigital/ember-cli-dropzonejs/issues"
+    "url": "https://github.com/prasarCodes/ember-cli-dropzonejs/issues"
   },
-  "homepage": "https://github.com/volldigital/ember-cli-dropzonejs#readme",
   "main": "index.js"
 }
